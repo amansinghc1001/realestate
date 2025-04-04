@@ -12,7 +12,7 @@ function Navbar() {
       <div className="left">
         <a href="/" className="logo">
           <img src="/logo.png" alt="" />
-          <span>YadavEstate</span>
+          <span>SinghEstate</span>
         </a>
         <a href="/list">List</a>
         <a href="/siglePage">sigle</a>
